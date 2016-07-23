@@ -2,7 +2,7 @@
 
 #### Checks for a remote code execution vulnerability (MS15-034) in Microsoft Windows systems (CVE2015-2015-1635).
 
-The script sends a specially crafted HTTP request with no impact on the system to detect this vulnerability. The affected versions are Windows 7, Windows Server 2008 R2, Windows 8, Windows Server 2012, Windows 8.1, and Windows Server 2012 R2.
+The script sends a specially crafted HTTP request with no impact on the system to detect this vulnerability. The affected versions are Windows 7, Windows Server 2008 R2, Windows 8, Windows Server 2012, Windows 8.1, and Windows Server 2012 R2. `SOURCE` https://nmap.org/nsedoc/scripts/http-vuln-cve2015-1635.html
 
 *Save the .sh *Modify the argument's mode with `chmod a+x`
 
