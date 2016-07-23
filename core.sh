@@ -1,8 +1,8 @@
 #!/bin/bash
 
 if [ -z "$1" ]; then
-	echo "[*] NMAP -A Scan"
-	echo "[*] Usage	: $0 <Last Octet> "
+	echo "[*] NMAP CORE SCAN"
+	echo "[*] Usage	: $0 IP Address "
 	exit 0
 fi
 
